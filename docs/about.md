@@ -1,6 +1,8 @@
 ---
 title: About
-description: A simple page about this site
+description: This is a space where teachers can tell stories in their own words. I
+  want to showcase the hard work, expertise and professionalism of teachers in a way
+  that gives people a behind the scenes look at what teachers do every day.
 
 ---
 # About
